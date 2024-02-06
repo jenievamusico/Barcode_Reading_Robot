@@ -1,1 +1,1 @@
-# Barcode_Reading_Robot
+# This project contains both RobotC and MATLAB scripts that were used to code a physical EV3 robot to use light sensors to read a barcode from a sheet of paper and a virtual twin to do thee same thing.
